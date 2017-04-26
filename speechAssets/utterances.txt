@@ -1,0 +1,14 @@
+AMAZON.HelpIntent was kann ich machen
+AMAZON.HelpIntent was kann ich hier machen
+AMAZON.HelpIntent was kann ich tuen
+AMAZON.HelpIntent was kann ich hier tuen
+AMAZON.NextIntent nächste Info
+GetNewFactIntent nenne mir eine Info
+GetNewFactIntent nenne mir was Neues
+GetNewFactIntent nenne mir etwas Neues
+GetNewFactIntent sage mir eine Info
+GetNewFactIntent sage mir was Neues
+GetNewFactIntent sage mir etwas Neues
+GetNewFactIntent erzähle mir eine Info
+GetNewFactIntent erzähle mir was Neues
+GetNewFactIntent erzähle mir etwas Neues
